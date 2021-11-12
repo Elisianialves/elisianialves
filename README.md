@@ -1,5 +1,5 @@
-### Olá! Eu sou a Elisiani Alves
-Backend Developer 🔥
+### Olá! Eu sou a Elisiani 
+Backend Developer. Tenho experiência com projetos utilizando Python, Django e MySql 🔥
 ##
 
   <div>
